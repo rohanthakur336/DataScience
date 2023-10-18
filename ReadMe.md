@@ -15,7 +15,7 @@ Goal | Item | Link to Item
 --- | --- | ---
 Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/Kanishhkka/datasciencecoursera/blob/main/run_analysis.R "run_analysis.R")
 Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/data/tidyData.txt "tidyData.txt")
-Github Repo | Repo |  [Repo Link](https://github.com/Kanishhkka/datasciencecourserav"Click to go to Repo")
+Github Repo | Repo |  [Repo Link](https://github.com/Kanishhkka/datasciencecoursera")
 Cookbook | CodeBook.md |  [Repo Link](https://github.com/Kanishhkka/datasciencecoursera/blob/main/CodeBook.md "CodeBook.md")
 README | ReadingItNow |  [Repo Link](https://github.com/Kanishhkka/datasciencecoursera/blob/main/ReadMe.md "README.md")
 
