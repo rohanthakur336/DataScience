@@ -13,6 +13,6 @@ Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/g
 
 FirstName | LastName | Email
 --- | --- | ---
-Kanishka |  Choken |  <rthakur_be21@thapar.edu>
+Rohan |  Choken |  <rthakur_be21@thapar.edu>
 Submit |  Pull Request | <youremailhere@gmail.com>
 
